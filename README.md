@@ -28,7 +28,7 @@ This project investigates preliminary statistics of recurrence microstate degene
 
 <h3>Degeneracy Patterns under Stochastic Regime</h3>
 
-<img src="Stochastic Degeneracy Pattern.png" width="800">
+<img src="https://github.com/FrancoFontoura/microstate-degeneracy-breaking-analysis/blob/main/figures/Stochastic%20Degeneracy%20Pattern.png" width="800">
 
 <h3>Degeneracy Patterns under Deterministic Regime</h3>
 
