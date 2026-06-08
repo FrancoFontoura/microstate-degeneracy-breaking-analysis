@@ -24,7 +24,7 @@ This project investigates preliminary statistics of recurrence microstate degene
 
 <h3>Order 2 Microstate Classes</h3>
 
-<img src="Microstate Classes (Order 2).png" width="800">
+<img src="https://github.com/FrancoFontoura/microstate-degeneracy-breaking-analysis/blob/main/figures/Microstate%20Classes%20(Order%202).png" width="800">
 
 <h3>Degeneracy Patterns under Stochastic Regime</h3>
 
